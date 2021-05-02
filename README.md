@@ -1,16 +1,16 @@
 # news_app_bloc
 
-A new Flutter project.
+new app for sports-science-bussiness\
+using bloc state mangement...\
+dark theme\
+web wiew to read the full news from its source.\
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## images from app
+<p float="left">
+  <img src="https://github.com/EslamFares/NewsApp_Bloc/blob/master/img_from_app/1.jpg" width="200" title="dark Theme"/>
+  <img src="https://github.com/EslamFares/NewsApp_Bloc/blob/master/img_from_app/2.jpg" width="200" />
+  <img src="https://github.com/EslamFares/NewsApp_Bloc/blob/master/img_from_app/3.jpg" width="200" title="light Theme"/>
+  <img src="https://github.com/EslamFares/NewsApp_Bloc/blob/master/img_from_app/4.jpg" width="200" title="search screen first time open"/>
+  <img src="https://github.com/EslamFares/NewsApp_Bloc/blob/master/img_from_app/5.jpg" width="200" title="Searching for a specific news"/>
+  <img src="https://github.com/EslamFares/NewsApp_Bloc/blob/master/img_from_app/6.jpg" width="200" title="web wiew to read the full news from its source"/>
+  </p>
